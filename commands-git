@@ -5,7 +5,5 @@ git push origin main
 git push -u origin main
 git push --force
 
--->push un repository
-git add .
-git commit -m 'Commantaire '
-git push
+-->pull un repository
+
